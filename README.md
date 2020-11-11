@@ -1,5 +1,7 @@
- #Welcome to Git Practices
+# Welcome to Git Practices
+
+## Things needed to create repo
  - LICENSE
- - '.gitignore' file
+ - `.gitignore` file
  - Finally Repo name
  
